@@ -2,7 +2,7 @@
 
 ## About me
 
-💻 **Senior Java Backend Developer** focused on building reliable and scalable applications<br>
+💻 **Software Engineer** focused on building reliable and scalable applications<br>
 ⚙️ Passionate about **clean code, software architecture, and solving complex engineering problems**<br>
 🚀 Always exploring **new technologies** and building practical solutions<br>
 
